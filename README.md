@@ -27,4 +27,4 @@ spx2wav voice.speex voice.wav
 /usr/local/bin/lame -S -V 9 voice.wav voice.mp3 && \
 rm -f voice.wav
 ```
-
+win  https://github.com/baogaitou/spx2wav/issues/3#issue-462399739
